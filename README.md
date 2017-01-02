@@ -4,7 +4,7 @@ This simple library sniffs on the network for ARP packets sent by a [Amazon Dash
 
 Usage:
 
-```
+```golang
 iface, err := net.InterfaceByName("eth0")
 if err != nil {
   panic(err)
