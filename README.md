@@ -6,7 +6,7 @@ Usage:
 
 ```golang
 
-import "dash"
+import "github.com/rhuss/dash"
 
 iface, err := net.InterfaceByName("eth0")
 if err != nil {
