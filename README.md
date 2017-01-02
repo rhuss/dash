@@ -1,4 +1,4 @@
-## Support for Amazon Dash Buttons
+## Go library for tracking Amazon Dash buttons
 
 This simple library sniffs on the network for ARP packets sent by a [Amazon Dash](https://www.amazon.com/dp/B01LBT75HE) button.
 
