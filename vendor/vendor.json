@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "jfL3rI2hB018GvxJtkpN3wZP3SQ=",
+			"path": "github.com/google/gopacket",
+			"revision": "64e82e7d0584a6c30c5dfc9684777b5b5ea717df",
+			"revisionTime": "2016-12-15T22:47:45Z"
+		},
+		{
+			"checksumSHA1": "JXZC16bLuNQDdWOavX4qbTT99N4=",
+			"path": "github.com/google/gopacket/layers",
+			"revision": "64e82e7d0584a6c30c5dfc9684777b5b5ea717df",
+			"revisionTime": "2016-12-15T22:47:45Z"
+		},
+		{
+			"checksumSHA1": "noeOE7LdcznyNuhuFFtudN5iSgA=",
+			"path": "github.com/google/gopacket/pcap",
+			"revision": "64e82e7d0584a6c30c5dfc9684777b5b5ea717df",
+			"revisionTime": "2016-12-15T22:47:45Z"
+		}
+	],
+	"rootPath": "github.com/rhuss/dash"
+}
