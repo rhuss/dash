@@ -31,4 +31,4 @@
 
 [[constraint]]
   name = "github.com/google/gopacket"
-  version = "v1.1.14"
+  version = "=v1.1.12"

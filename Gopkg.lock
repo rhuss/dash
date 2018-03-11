@@ -8,12 +8,12 @@
     "layers",
     "pcap"
   ]
-  revision = "11c65f1ca9081dfea43b4f9643f5c155583b73ba"
-  version = "v1.1.14"
+  revision = "b83f94714c36e30ce851be1d5a0a5226f9f1bca4"
+  version = "v1.1.12"
 
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "ef10b9299808168cf4ba82a6ee07e2bc8a33e2678ea0c4840ba11490d496fd3f"
+  inputs-digest = "d5db8b1b9217dbb93b4146dc6ca16c6852547a9452bb8cbd666b4defdf7ebd6b"
   solver-name = "gps-cdcl"
   solver-version = 1
